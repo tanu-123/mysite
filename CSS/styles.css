@@ -1,0 +1,21 @@
+.row{
+  margin-top: 70px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.footer{
+  background:	#191919;
+}
+
+.heading{
+  color: #FFFFFF;
+}
+span{
+  color: #FFFFFF;
+}
+.para{
+  color: #FFFFFF;
+}
+body{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0MjPh2xePhErxt9owxgVW3oGseJj_1vAUtxf98CyAf3tr11Oe&usqp=CAU');
+}
